@@ -1,1 +1,3 @@
 # gitlab-middleman
+
+Middleman container
