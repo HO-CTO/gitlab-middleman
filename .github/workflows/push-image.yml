@@ -80,3 +80,4 @@ jobs:
         with:
           tag: ${{needs.calculate-semver.outputs.version}}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
