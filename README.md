@@ -1,9 +1,8 @@
 # gitlab-middleman
 
-Middleman container
+Middleman container with included govuk_tech_docs gem
 
 ### Test the site locally
-
 
 Build container image
 ```
