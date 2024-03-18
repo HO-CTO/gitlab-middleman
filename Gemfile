@@ -10,6 +10,11 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :x64_mingw, :jruby]
 
 # Haml file is limited to 5.x as 6.0 has problem with middleman
 gem "haml", "~> 5.0" 
-gem "middleman-core", "4.5.0"
+gem "middleman-core", "4.5.1"
 # Include the tech docs gem
-gem 'govuk_tech_docs'
+gem 'govuk_tech_docs', "3.5.0"
+gem 'bigdecimal'
+gem 'mutex_m'
+gem 'base64'
+gem 'csv'
+
